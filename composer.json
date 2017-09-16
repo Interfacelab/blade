@@ -40,7 +40,19 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/interfacelab/ilab-contracts"
+      "url": "https://github.com/interfacelab/illuminate-contracts"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/interfacelab/illuminate-events"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/interfacelab/illuminate-filesystem"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/interfacelab/illuminate-view"
     }
   ]
 }
